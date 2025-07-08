@@ -22,7 +22,7 @@ This notebook walks through a practical data cleaning workflow using pandas. It 
 
 ###  Skills Demonstrated
 
-* pandas for data manipulation
+* python for data manipulation
 * Data preprocessing for machine learning
 * Real-world handling of messy datasets
 
